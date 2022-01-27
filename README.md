@@ -16,7 +16,7 @@ Sorted the DataFrame values by date.
 Ploted the results using the DataFrame plot method.
 ![precipitation Analysis](Images/describe.png)
 
-![precipitation Analysis](Images/Prepcipitation Analysis.png)
+![precipitation Analysis](Images/Prepcipitation_Analysis.png)
 
 Station Analysis
 
@@ -38,4 +38,4 @@ Queried the last 12 months of temperature observation data for this station.
 
 Ploted the results as a histogram with bins=12.
 
-![precipitation Analysis](Images/Temp for Active Station.png)
+![precipitation Analysis](Images/Temp_for_Active_Station.png)
